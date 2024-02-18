@@ -15,16 +15,5 @@ Methodology
    Baseline: Starting with simple classification models (e.g., Logistic Regression, Decision Trees, Random Forest) to establish a performance benchmark.
    Advanced Models: Investigating the combining LSTM outputs with features derived from traditional machine learning models for potential performance gains.
 
-├── README.md 
-├── data/
-│   ├── synthetic_data.csv
-│   └── processed_data.csv
-├── notebooks/
-│   ├── data_exploration.ipynb
-│   ├── feature_engineering.ipynb
-│   ├── model_training.ipynb
-│   └── hybrid_LSTM.ipynb
-├── src/
-│   ├── utils.py
-│   ├── models.py 
-└── requirements.txt
+![image](https://github.com/Eserhimas/zombie_accounts_detection/assets/27355212/b021316a-e518-4461-a0a6-c9fb280c30d7)
+
