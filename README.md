@@ -1,5 +1,6 @@
 # zombie_accounts_detection
 Zombie account (churned) reactivation -- The development phase continues locally and will be uploaded when completed.
+![image](https://github.com/Eserhimas/zombie_accounts_detection/assets/27355212/f3f6ad1f-6c73-4146-8a9b-7aa5ff4bc949)
 
 Problem Statement
 
